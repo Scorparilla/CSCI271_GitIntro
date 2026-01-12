@@ -1,4 +1,4 @@
-# CSCI271_GitIntro
+# CSCI271_Tyler_GitIntro
 # My First GitHub Repository
 This is my very first repository on GitHub!
 **Author:** Tyler Grant
