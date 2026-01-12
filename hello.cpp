@@ -1,5 +1,5 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
+// Name: Tyler Grant
 // Section: YOUR SECTION
 
 #include <iostream>
