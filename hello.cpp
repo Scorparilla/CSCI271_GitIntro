@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
 // Name: Tyler Grant
-// Section: YOUR SECTION
+// Section: CSCI 271
 
 #include <iostream>
 using namespace std;
